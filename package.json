@@ -1,0 +1,16 @@
+{
+  "name": "lws-myword",
+  "author": "Rick Workman <ridgeworks@mac.com>",
+  "version": "0.1.0",
+  "description": "`local-web-server` middleware to serve MyWord document requests.",
+  "repository": "https://github.com/ridgeworks/lws-myword.git",
+  "keywords": [
+    "lws",
+    "myword"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=7.6"
+  },
+  "dependencies": {}
+}
