@@ -1,5 +1,5 @@
 # lws-myword
-An npm package implementing a middleware layer for `local-web-server' running on Node.js which dynamically builds an HTML host for URLs referencing MyWord documents.
+An npm package implementing a middleware layer for `local-web-server` running on Node.js which dynamically builds an HTML host for URLs referencing MyWord documents.
 
 ### Installation
 
@@ -9,7 +9,7 @@ After installing and testing `local-web-server` for Node.js:
 
 ### Usage
 
-Insert `lws-myword` or `myword` to the middleware stack before `static``, e.g.,
+Insert `lws-myword` or `myword` in the middleware stack before `static``, e.g.,
 
 	ws --stack myword static index
 
